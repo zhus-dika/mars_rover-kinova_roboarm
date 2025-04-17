@@ -1,3 +1,7 @@
+## 🦋 Used models from the Mathworks Team
+
+- Train Kinova RoboArm https://www.mathworks.com/help/reinforcement-learning/ug/train-sac-agent-for-ball-balance-control.html
+- Mars Rover https://www.mathworks.com/help/sm/ug/mars_rover.html
 ## 🪲 GUIDE
 
 - Open project file `Mars-Rover-Terrain-Simscape-24.1.1.1/Mars_Rover_Terrain.prj` to load need data for mars rover
